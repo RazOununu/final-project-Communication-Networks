@@ -23,7 +23,6 @@ The project processes PCAP files along with optional TLS keys files (in .log for
 
 - **Timestamp & Inter-arrival Time:** Provide insights into the timing, pacing, and possible congestion within the network.
 - **Packet Length:** Helps distinguish between different types of traffic (e.g., video streaming often uses larger packets than text-based communications).
-- **IP Addresses & IP Version:** Reveal details about network topology, the use of CDNs, and whether the traffic is local (LAN) or external (WAN).
 - **TTL:** Although we only see the final value, when compared to typical default values (64, 128, or 255), TTL can give an indication of the number of hops and network distance.
 - **Protocol, Ports, TCP Flags, and Window Size:** Allow us to understand the nature of the communication at the transport layer and to infer behaviors like connection establishment and flow control.
 - **TLS Fields:** Provide insight into the encryption process and secure communication.
