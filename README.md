@@ -117,9 +117,9 @@ These resources were invaluable in helping us understand how to capture, process
 
 This project was developed by the following contributors:
 
-- **רעות בכור** (ID: 012345678)
-- **רז אונונו** (ID: 987654321)
-- **שירת הוטרר** (ID: 123456789)
+- **רעות בכור** (ID: 323834309)
+- **רז אונונו** (ID: 322241654)
+- **שירת הוטרר** (ID: 325445997)
 - **נועה הוניגשטיין** (ID: 329808554)
 
 
