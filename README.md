@@ -83,6 +83,7 @@ CommunicationNetworksProject/
    - Place your TLS key files (if any) in the `logs` folder.  
    **Important:** Each TLS key file must have the exact same base name as its corresponding PCAP file. For example, if there is a PCAP file named `youtube.pcapng` in the `captures` folder, its corresponding TLS key file must be named `youtube.log` and placed in the `logs` folder.  
    If these naming conventions or directory placements are not followed, the code will not be able to correctly read and process the PCAP files.
+   > **Note:** The use of TLS keys is optional. If TLS keys are not available, the code will still function, but encrypted TLS traffic may not be fully decrypted and analyzed.
 
 
 2. Run the main script from the project root:
