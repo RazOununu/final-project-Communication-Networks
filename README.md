@@ -97,7 +97,6 @@ This will process all PCAP files, generate CSV files in the `output` folder, and
 ## Conclusion
 
 This project provides a systematic way to analyze network traffic by extracting and visualizing key characteristics from PCAP files. The generated CSV files offer a structured format for detailed analysis, and the accompanying graphs enable quick comparison and insight into the behavior of different applications.
-Below is an updated "Acknowledgements" section that you can add to your README file. You can copy and integrate it directly into your project README:
 
 ---
 
@@ -113,9 +112,7 @@ This project was developed with the assistance of several beginner-friendly reso
 These resources were invaluable in helping us understand how to capture, process, and analyze network traffic using PyShark, as well as in designing and implementing the various visualization components.
 
 ---
-Below is an example "Authors" section that you can add to your README file. You can customize the names and ID numbers as needed:
 
----
 
 ## Authors
 
